@@ -1,0 +1,16 @@
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\bin\Debug\net8.0-windows\GraphicsPackage.exe
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\bin\Debug\net8.0-windows\GraphicsPackage.deps.json
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\bin\Debug\net8.0-windows\GraphicsPackage.runtimeconfig.json
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\bin\Debug\net8.0-windows\GraphicsPackage.dll
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\bin\Debug\net8.0-windows\GraphicsPackage.pdb
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\obj\Debug\net8.0-windows\GraphicsPackage.Form1.resources
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\obj\Debug\net8.0-windows\GraphicsPackage.csproj.GenerateResource.cache
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\obj\Debug\net8.0-windows\GraphicsPackage.GeneratedMSBuildEditorConfig.editorconfig
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\obj\Debug\net8.0-windows\GraphicsPackage.AssemblyInfoInputs.cache
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\obj\Debug\net8.0-windows\GraphicsPackage.AssemblyInfo.cs
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\obj\Debug\net8.0-windows\GraphicsPackage.csproj.CoreCompileInputs.cache
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\obj\Debug\net8.0-windows\GraphicsPackage.dll
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\obj\Debug\net8.0-windows\refint\GraphicsPackage.dll
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\obj\Debug\net8.0-windows\GraphicsPackage.pdb
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\obj\Debug\net8.0-windows\GraphicsPackage.genruntimeconfig.cache
+F:\Old F Folders\Habhoba\GraphicsPackage\GraphicsPackage\obj\Debug\net8.0-windows\ref\GraphicsPackage.dll
